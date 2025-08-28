@@ -1,0 +1,11 @@
+h1{
+    background-color: purple;
+    color: aqua;
+    display: inline-block;
+}
+
+p{
+    background-color: brown;
+    color: azure;
+    display:inline-block
+}
